@@ -37,7 +37,7 @@ Future iterations of my portfolio will integrate these skills, modern frameworks
 
 ## 🔗 Live Demo
 Check out the live version of my portfolio here:  
-👉 [Portfolio-V1 on GitHub Pages](https://devsaboor.github.io/Portfolio-V1/)
+👉 [Portfolio-V1 on GitHub Pages](https://devsaboor.github.io/Portfoilo-V1/)
 
 ## 📜 License
 This project is licensed under the MIT License.  
